@@ -29,12 +29,12 @@ This project is a classic "Dicee" game. It features an interactive button that t
 To run this game on your own machine:
 1. Clone this repository:
    ```bash
-   git clone (https://github.com/Abdur-Rahman10/Simple-Dice-Game.git) ```
+   git clone (https://github.com/Abdur-Rahman10/Simple-Dice-Game.git) 
 
 2. Navigate to the project directory:
 Navigate to the project folder:
-```
-Bash
+
+```Bash
 cd Simple-Dice-Game
 ```
 Open index.html in your preferred web browser and click "Roll Dice" to play!
