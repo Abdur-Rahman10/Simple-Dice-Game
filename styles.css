@@ -39,3 +39,24 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.roll-btn {
+  background-color: #4ECCA3; 
+  color: #393E46; 
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 40px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  transition: transform 0.2s ease, background-color 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+.roll-btn:hover {
+  background-color: #3db892; 
+  transform: translateY(-3px); 
+  box-shadow: 0 6px 12px rgba(0,0,0,0.4);
+}
