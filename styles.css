@@ -49,7 +49,8 @@ footer {
   border: none;
   border-radius: 8px;
   padding: 10px 40px;
-  margin-bottom: 30px;
+  display: block;
+  margin: 40px auto 20px auto;
   cursor: pointer;
   transition: transform 0.2s ease, background-color 0.2s ease;
   box-shadow: 0 4px 6px rgba(0,0,0,0.3);
